@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 20vmin;
+}
+
+
+
+.App-header {
+  align-items: center;
+  background-color: #1c3ca3;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 25vh;
+}
+
+.App-footer {
+  align-items: stretch;
+  background-color: #1c3ca3;
+  color: #fff;
+  flex-wrap: wrap;
+  font-size: calc(9px + 1vmin);
+  justify-content: space-around;
+  min-height: 5vh;
+}
+
+
+.App-body {
+  min-height: 70vh;
+}
